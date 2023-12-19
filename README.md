@@ -9,7 +9,7 @@ This report informs us about the insights of budget, profit, and countries from 
 # The dashboard was designed to provide insights into the following key performance :
 
 Profit by Months
-![](Reasorces/Screenshot.png)
+![](resources/Profitbymonths.png)
 
 Unit Sold by Months (trend)
 ![](Reasorces/Screenshot(12).png.png)
