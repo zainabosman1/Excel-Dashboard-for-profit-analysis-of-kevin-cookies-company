@@ -12,9 +12,11 @@ Profit by Months
 ![](resources/Profitbymonths.png)
 
 Unit Sold by Months (trend)
-![](Reasorces/Screenshot(12).png.png)
+![](resources/Unitsoldbymonths.png)
+
 Unit Sold by Products
 ![](Reasorces/UnitSoldbyProducts.png)
+
 Profit by Countries and Product
 ![](Reasorces/profitbycountriesandproduc.png)
 
